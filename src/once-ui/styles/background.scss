@@ -8,12 +8,12 @@
 }
 
 .surface-background {
-    background-color: blue;
+    background-color: var(--surface-background);
     backdrop-filter: var(--backdrop-filter);
 }
 
 .overlay-background {
-    background-color: var(--backdrop);
+    background-color: blue;
 }
 
 /* NEUTRAL */
