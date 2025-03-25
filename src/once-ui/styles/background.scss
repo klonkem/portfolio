@@ -4,12 +4,12 @@
 
 /* PAGE */
 .page-background {
-    background-color: var(blue);
+    background-color: var(--page-background);
 }
 
 .surface-background {
     background-color: var(blue);
-    backdrop-filter: var(blue);
+    backdrop-filter: var(--backdrop-filter);
 }
 
 .overlay-background {
