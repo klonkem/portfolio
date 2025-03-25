@@ -4,16 +4,16 @@
 
 /* PAGE */
 .page-background {
-    background-color: var(--page-background);
+    background-color: var(blue);
 }
 
 .surface-background {
-    background-color: var(--surface-background);
-    backdrop-filter: var(--backdrop-filter);
+    background-color: var(blue);
+    backdrop-filter: var(blue);
 }
 
 .overlay-background {
-    background-color: var(blue);
+    background-color: var(--backdrop);
 }
 
 /* NEUTRAL */
