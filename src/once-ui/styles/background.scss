@@ -4,11 +4,11 @@
 
 /* PAGE */
 .page-background {
-    background-color: blue;
+    background-color: var(--page-background);
 }
 
 .surface-background {
-    background-color: var(--surface-background);
+    background-color: blue;
     backdrop-filter: var(--backdrop-filter);
 }
 
