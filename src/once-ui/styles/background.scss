@@ -8,8 +8,8 @@
 }
 
 .surface-background {
-    background-color: var(blue);
-    backdrop-filter: var(--backdrop-filter);
+    background-color: var(--surface-background);
+    backdrop-filter: var(blue);
 }
 
 .overlay-background {
